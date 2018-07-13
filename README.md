@@ -2,6 +2,13 @@
 git law
 -
 
+업데이트 방법
+git add .
+git commit -m "first commit"
+git push --force origin master
+
+
+
 #### top title
 
 ```` sh
