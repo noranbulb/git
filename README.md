@@ -9,6 +9,12 @@ git commit -m "first commit"
 git push --force origin master
 ````
 
+다운로드 방법
+```` sh
+git pull origin master
+````
+
+
 브런치 생성 방법
 ```` sh
 git branch 이름 ( 브런치 생성 )
