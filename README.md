@@ -9,6 +9,16 @@ git commit -m "first commit"
 git push --force origin master
 ````
 
+브런치 생성 방법
+```` sh
+git branch 이름 ( 브런치 생성 )
+git checkout 이름 ( 브런치 선택 )
+
+git commit -m "first commit" 을 해야 브런치가 생성된다
+git push --force origin master
+````
+
+
 
 #### top title
 
