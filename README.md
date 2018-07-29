@@ -22,8 +22,17 @@ git checkout 이름 ( 브런치 선택 )
 
 git commit -m "first commit" 을 해야 브런치가 생성된다
 git push --force origin master
+
 ````
 
+
+원격 브런치 리스트 보기와 삭제 방법
+```` sh
+git remote show origin ( 브런치 목록 보기 )
+git push origin :브런지 이름 ( 브런치 삭제 )
+
+
+````
 
 
 #### top title
