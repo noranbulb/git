@@ -14,6 +14,13 @@ git push --force origin master
 git pull origin master
 ````
 
+commit 삭제 방법
+```` sh
+git reset --hard HEAD~3
+````
+
+
+
 
 브런치 생성 방법
 ```` sh
@@ -30,6 +37,9 @@ git push --force origin master
 ```` sh
 git remote show origin ( 브런치 목록 보기 )
 git push origin :브런지 이름 ( 브런치 삭제 )
+
+
+
 
 
 ````
