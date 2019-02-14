@@ -18,6 +18,9 @@ commit 삭제 방법
 ```` sh
 git reset --hard HEAD~3
 ````
+```` sh
+git reset --hard HEAD^^^
+````
 
 
 
