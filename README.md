@@ -41,6 +41,8 @@ git remote remove uptest  // 리모트 삭제
 
 #### 상대방 깃 가져오고 형상관리
 ```` sh
+
+fork 를 먼저 하고
 git clone https://github.com/noranbulb/new-ui-todo.git ( 폴더 그대로 복사 )
 git remote add upstream https://github.com/freevuehub/new-ui-todo.git // 상대방 리모트 추가
 git pull upstream master // 파일 받아오고
